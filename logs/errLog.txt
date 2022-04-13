@@ -1,0 +1,1 @@
+20220406	09:13:43	6d42d2be-0d61-4f37-91dc-d6b0f0a34fc0	Error: ENOENT: no such file or directory, stat 'C:\Users\100477260\Desktop\myWeb\Tutorial10\views\index.html'
